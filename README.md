@@ -1,51 +1,46 @@
-<div align="right" dir="rtl">
-
 # أهلاً بك، أنا أحمد الهزازي 👋
-### أخصائي معالجة بيانات | Data Processing Specialist 📊
 
-أمتلك خبرة تمتد لأكثر من 3 سنوات في مجال معالجة البيانات وتدقيقها. أسعى لتوظيف خبرتي الميدانية وخلفيتي الأكاديمية في **علم الاجتماع** لتقديم تحليلات دقيقة تساهم في فهم التوجهات، مع اهتمام خاص بمبادرات **إثراء المحتوى العربي تقنياً**.
+### محلل بيانات | Data Analyst 📊
+
+أمتلك خبرة تمتد لأكثر من 3 سنوات في معالجة وتحليل البيانات في إحدى الشركات التقنية الكبرى بالمملكة، وخلفية أكاديمية في **علم الاجتماع** من جامعة الملك سعود تساعدني على فهم السلوك البشري وراء الأرقام.
+
+أركز على تحويل البيانات الخام إلى رؤى عملية تدعم اتخاذ القرار، مع اهتمام خاص بـ **تحليل البيانات الاجتماعية** و **إثراء المحتوى العربي تقنياً**.
 
 ---
 
-### 🛠️ المهارات التقنية (Tech Stack)
+### 🛠️ المهارات التقنية
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### 📈 ما الذي أعمل عليه حالياً؟
-- 🔍 تطوير مشاريع تحليلية باستخدام **Power BI**.
-- 💻 بناء مشاريع تعنى بـ **إثراء المحتوى العربي**.
-- 🛠️ تعزيز مهاراتي في استعلامات **SQL** المتقدمة.
+
+- 🔍 تطوير لوحات معلومات تفاعلية باستخدام **Power BI**
+- 📊 تعميق مهارات **SQL** المتقدمة (Joins, Window Functions, CTEs)
+- 💡 مشاريع تحليلية في **إثراء المحتوى العربي**
 
 ---
 
-</div>
+### 📫 تواصل معي
 
-<hr>
+- 📍 الرياض، المملكة العربية السعودية
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-alhazazi/)
+- 📧 [AlhazzaziAhmed@gmail.com](mailto:AlhazzaziAhmed@gmail.com)
 
-<div align="left" dir="ltr">
+---
 
 # Hi, I'm Ahmed Al Hazazi 👋
-### Data Processing Specialist 📊
 
-With over 3 years of experience in data processing and auditing, I bridge the gap between **Sociology** and data science. I focus on transforming raw data into meaningful insights to understand trends, with a dedicated interest in **enriching Arabic technical content**.
+### Data Analyst 📊
 
----
+Data Analyst with 3+ years of hands-on experience in data processing and analysis at a major Saudi tech company, with an academic background in **Sociology** from King Saud University that helps me understand the human behavior behind the numbers.
 
-### 🛠️ Tech Stack
+I focus on transforming raw data into actionable insights, with a particular interest in **social data analytics** and contributing to **Arabic technical content**.
 
-- **Data Visualization:** Power BI
-- **Database Management:** SQL (PostgreSQL/SQL Server)
-- **Data Analysis:** Microsoft Excel (Advanced)
-
----
-
-### 📫 Connect with me:
-- 📍 Riyadh, Saudi Arabia.
-- 💼 [LinkedIn](رابط_حسابك_هنا)
-- 📧 [Email](رابط_إيميلك_هنا)
-
-</div>
+📍 Riyadh, Saudi Arabia
