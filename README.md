@@ -1,6 +1,5 @@
 # أهلاً بك، أنا أحمد الهزازي 👋
-
-### محلل بيانات | Data Analyst 📊
+### 📊 محلل بيانات | Data Analyst
 
 أمتلك خبرة تمتد لأكثر من 3 سنوات في معالجة وتحليل البيانات في إحدى الشركات التقنية الكبرى بالمملكة، وخلفية أكاديمية في **علم الاجتماع** من جامعة الملك سعود تساعدني على فهم السلوك البشري وراء الأرقام.
 
@@ -8,7 +7,7 @@
 
 ---
 
-### 🛠️ المهارات التقنية
+### 🛠️ المهارات التقنية | Tech Stack
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,18 +19,16 @@
 ---
 
 ### 📈 ما الذي أعمل عليه حالياً؟
-
 - 🔍 تطوير لوحات معلومات تفاعلية باستخدام **Power BI**
-- 📊 تعميق مهارات **SQL** المتقدمة (Joins, Window Functions, CTEs)
+- 💻 تعميق مهارات **SQL** المتقدمة (Joins, Window Functions, CTEs)
 - 💡 مشاريع تحليلية في **إثراء المحتوى العربي**
 
 ---
 
-### 📫 تواصل معي
-
-- 📍 الرياض، المملكة العربية السعودية
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-alhazazi/)
-- 📧 [AlhazzaziAhmed@gmail.com](mailto:AlhazzaziAhmed@gmail.com)
+### 📫 تواصل معي | Connect with me
+- 📍 الرياض، المملكة العربية السعودية | Riyadh, Saudi Arabia
+- 💼 [LinkedIn](https://linkedin.com/in/ahmed-alhazazi)
+- 📧 AlhazzaziAhmed@gmail.com
 
 ---
 
