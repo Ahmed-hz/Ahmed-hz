@@ -2,7 +2,7 @@
 
 ### 📊 محلل بيانات | Data Analyst
 
-أمتلك خبرة تمتد لأكثر من 3 سنوات في معالجة وتحليل البيانات في إحدى الشركات التقنية الكبرى بالمملكة، وخلفية أكاديمية في **علم الاجتماع** من جامعة الملك سعود تساعدني على فهم السلوك البشري وراء الأرقام. أركز على تحويل البيانات الخام إلى رؤى عملية تدعم اتخاذ القرار، مع اهتمام خاص بـ **تحليل البيانات الاجتماعية** و **إثراء المحتوى العربي تقنياً**.
+أمتلك خبرة تمتد لأكثر من 4 سنوات في معالجة وتحليل البيانات في إحدى الشركات التقنية الكبرى بالمملكة، وخلفية أكاديمية في **علم الاجتماع** من جامعة الملك سعود تساعدني على فهم السلوك البشري وراء الأرقام. أركز على تحويل البيانات الخام إلى رؤى عملية تدعم اتخاذ القرار، مع اهتمام خاص بـ **تحليل البيانات الاجتماعية** و **إثراء المحتوى العربي تقنياً**.
 
 > Data Analyst with 3+ years of experience in data processing and analysis at a major Saudi tech company, with an academic background in **Sociology** from King Saud University that helps me understand the human behavior behind the numbers. I focus on transforming raw data into actionable insights, with a particular interest in **social data analytics** and contributing to **Arabic technical content**.
 
